@@ -10,12 +10,16 @@
         {
             "type": "composer",
             "url": "https://nova.laravel.com"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/makowskid/nova-publishable"
         }
     ],
     "require": {
         "php": "^7.3|^8.0",
         "creode/laravel-repository": "^1.0",
-        "creode/nova-publishable": "^1.1",
+        "creode/nova-publishable": "dev-main",
         "manogi/nova-tiptap": "^3.2",
         "laravel/nova": "^4.0",
         "outl1ne/nova-sortable": "^3.4",
