@@ -21,8 +21,8 @@
         "creode/laravel-repository": "^1.0",
         "creode/nova-publishable": "dev-main",
         "manogi/nova-tiptap": "^3.2",
-        "laravel/nova": "^4.0",
-        "outl1ne/nova-sortable": "^3.4",
+        "laravel/nova": "^4.0|^5.0",
+        "outl1ne/nova-sortable": "^3.4|^4.0",
         "spatie/laravel-package-tools": "^1.14.0"
     },
     "require-dev": {
